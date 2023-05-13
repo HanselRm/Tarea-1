@@ -1,0 +1,54 @@
+* {
+    padding-bottom: 0%;
+    margin: 0%;
+
+}
+
+.body{
+    border: solid 1px;
+    height: 100%;
+    width: 67%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top{
+    background-color: #4974a8;
+}
+
+.nombre{
+    text-align: center;
+    font-size: 200%;
+    height: 10%;
+    width: 27%;
+    margin-left: 25%;
+    position: absolute;
+    top: 10%;
+}
+
+.informacion{
+    background-color: #d8e2ee;
+    font-size: 20px;
+    line-height: 1.5;
+    height:728px;
+    display: flex;
+}
+
+.redes {
+    width: 50%;
+    height: 100%;
+    border-right: 1px solid;
+
+  }
+  
+  .cuerpo {
+    padding: 0 10px;
+    width: 50%;
+    height: 100%;
+  }
+
+  .videos{
+    background-color: #d8e2ee;
+    
+  }
+
